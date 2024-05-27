@@ -1,8 +1,11 @@
 import { AiOutlineArrowRight } from "react-icons/ai";
-import { SectionHeader } from "../util/SectionHeader";
-import Reveal from "../util/Reveal";
-import { MyLinks } from "../nav/Header";
-import { Stats } from "./Stats";
+
+import { SectionHeader }      from "../util/SectionHeader";
+import Reveal                 from "../util/Reveal";
+
+import { MyLinks }            from "../nav/Header";
+
+import { Stats }              from "./Stats";
 
 export const About = () => {
   return (
@@ -15,22 +18,22 @@ export const About = () => {
               <span className="bg-orange-500 text-white py-2 px-3 rounded font-bold mr-1 float-left text-2xl">
                 H
               </span>
-              ey! We are a private software development firm.
+              ey! We are a private software development firm independently operated by a small team of students.
             </p>
           </Reveal>
           <Reveal>
             <p className="leading-relaxed text-zinc-300">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti reiciendis maxime nam? Consequatur fugiat ab et totam culpa dolore id minima blanditiis atque hic cumque, voluptates a eaque eos sint.
+              We specialize in creating both desktop & web applications, REST APIs, and other software solutions for businesses and individuals.
             </p>
           </Reveal>
           <Reveal>
             <p className="leading-relaxed text-zinc-300">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti reiciendis maxime nam? Consequatur fugiat ab et totam culpa dolore id minima blanditiis atque hic cumque, voluptates a eaque eos sint.
+              A large portion of our work is open-source, and can be found across our various Github Organizations.
             </p>
           </Reveal>
           <Reveal>
             <p className="leading-relaxed text-zinc-300">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti reiciendis maxime nam? Consequatur fugiat ab et totam culpa dolore id minima blanditiis atque hic cumque, voluptates a eaque eos sint.
+              We also offer a variety of services outside of software development explicitly, including web hosting, domain registration, dns management, and more.
             </p>
           </Reveal>
           <Reveal>

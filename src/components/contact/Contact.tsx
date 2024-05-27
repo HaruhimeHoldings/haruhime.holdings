@@ -12,15 +12,10 @@ export const Contact = () => {
           </h4>
         </Reveal>
         <Reveal width="w-full">
-          <p className="text-center my-8 text-zinc-300 leading-relaxed">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure repellendus maxime itaque dolore id accusamus adipisci consequatur, voluptas sequi non omnis voluptatum. Consectetur quod ullam nostrum culpa magni recusandae amet.
-          </p>
-        </Reveal>
-        <Reveal width="w-full">
-          <Link href="mailto:bob.ross@notreal.com">
+          <Link href="mailto:hello@haruhime.holdings">
             <div className="flex items-center justify-center gap-2 w-fit text-lg md:text-2xl whitespace-normal mx-auto hover:text-orange-300 transition-colors">
               <AiFillMail />
-              <span>lorem@loremipsum.com</span>
+              <span>hello@haruhime.holdings</span>
             </div>
           </Link>
         </Reveal>
