@@ -1,6 +1,6 @@
 {
-  "name": "haruhime.holdings",
-  "version": "1.0.0",
+  "name": "dev-portfolio",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,28 +9,24 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@nextui-org/react": "^2.3.6",
-    "framer-motion": "^11.2.6",
-    "next": "14.0.4",
+    "animejs": "^3.2.2",
+    "framer-motion": "^11.0.28",
+    "next": "14.2.1",
     "react": "^18",
     "react-dom": "^18",
-    "react-slick": "^0.30.2",
-    "react-type-animation": "^3.2.0",
-    "slick-carousel": "^1.8.1"
+    "react-icons": "^5.0.1",
+    "sass": "^1.75.0",
+    "tailwind-merge": "^2.2.2"
   },
   "devDependencies": {
+    "@types/animejs": "^3.1.12",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "autoprefixer": "^10.0.1",
     "eslint": "^8",
-    "eslint-config-next": "14.0.4",
+    "eslint-config-next": "14.2.1",
     "postcss": "^8",
-    "tailwindcss": "^3.3.0",
+    "tailwindcss": "^3.4.1",
     "typescript": "^5"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/HaruhimeHoldings/haruhime.holdings"
   }
 }
