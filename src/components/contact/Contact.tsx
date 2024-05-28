@@ -13,10 +13,16 @@ export const Contact = () => {
         </Reveal>
         <Reveal width="w-full">
           <Link href="mailto:hello@haruhime.holdings">
-            <div className="flex items-center justify-center gap-2 w-fit text-lg md:text-2xl whitespace-normal mx-auto hover:text-orange-300 transition-colors">
-              <AiFillMail />
+            <div
+                className="flex items-center justify-center gap-2 w-fit text-lg md:text-2xl whitespace-normal mx-auto hover:text-orange-300 transition-colors">
+              <AiFillMail/>
               <span>hello@haruhime.holdings</span>
             </div>
+            <span className="block text-center text-lg md:text-xl mt-4">
+                  <h4 className={'font-bold'}>Haruhime Holdings LLC</h4>
+                  1968 S. Coast Hwy, #152,
+                  Laguna Beach, CA, USA, 92651
+              </span>
           </Link>
         </Reveal>
       </div>
