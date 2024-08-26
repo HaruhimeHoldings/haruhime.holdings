@@ -1,0 +1,10 @@
+{
+  "name": "Haruhime Holdings",
+  "short_name": "Haruhime",
+  "description": "Discover Haruhime Holdings, a private software consulting firm operated by a team of students, offering expertise in full-stack development, software solutions, and more.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "icons": []
+}
