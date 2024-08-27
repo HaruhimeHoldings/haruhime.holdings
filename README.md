@@ -14,7 +14,7 @@ This is the official company portfolio site for Haruhime Holdings, showcasing ou
 
 ## Usage
 
-The site is live at [haruhime.holdings](https://haruhime.holdings), where you can explore our services, team, and contact information.
+The site is live at [haruhime.holdings](https://haruhime.holdings), where you can explore our services, projects, and contact information.
 
 ## Installation
 
@@ -22,7 +22,7 @@ To run the project locally, you will need Node.js installed on your system.
 
 ```bash
 # Clone the repository
-git clone https://github.com/haruhimehholdings/haruhime.holdings.git
+git clone https://github.com/haruhimeholdings/haruhime.holdings.git
 
 # Navigate into the project directory
 cd portfolio
